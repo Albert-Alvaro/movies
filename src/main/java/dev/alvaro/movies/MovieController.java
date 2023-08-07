@@ -8,6 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.util.Scanner;
 
+
 @RestController
 @RequestMapping("/api/v1/movies")
 public class MovieController {
